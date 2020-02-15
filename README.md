@@ -17,4 +17,4 @@
 
 前向传播模块： forward.py
 反向传播模块： mnist_backward.py
-测试模型文件： mnist_test.py
+测试模型文件： mnist_test.py(测试数据集)，mnist_app.py（测试自己的手写数字）
